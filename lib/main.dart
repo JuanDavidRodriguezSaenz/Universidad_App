@@ -12,7 +12,7 @@ class MiEscuelaParticularApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'App para Prepa Particular',
         theme: ThemeData(
-          primarySwatch: Colors.green,
+          primarySwatch: Colors.red,
         ),
         home: PaginaInicial());
   } // widget
